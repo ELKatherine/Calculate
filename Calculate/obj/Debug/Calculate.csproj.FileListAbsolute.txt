@@ -1,0 +1,14 @@
+C:\Users\lipch\source\repos\Calculate\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\lipch\source\repos\Calculate\Calculate\bin\Debug\Calculate.exe
+C:\Users\lipch\source\repos\Calculate\Calculate\bin\Debug\Calculate.pdb
+C:\Users\lipch\source\repos\Calculate\Calculate\obj\Debug\Calculate.csproj.AssemblyReference.cache
+C:\Users\lipch\source\repos\Calculate\Calculate\obj\Debug\Calculate.Form1.resources
+C:\Users\lipch\source\repos\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\lipch\source\repos\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\lipch\source\repos\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\lipch\source\repos\Calculate\Calculate\obj\Debug\Calculate.exe
+C:\Users\lipch\source\repos\Calculate\Calculate\obj\Debug\Calculate.pdb
+C:\Users\lipch\source\repos\Calculate\Calculate\bin\Debug\Calculate.exe.manifest
+C:\Users\lipch\source\repos\Calculate\Calculate\bin\Debug\Calculate.application
+C:\Users\lipch\source\repos\Calculate\Calculate\obj\Debug\Calculate.exe.manifest
+C:\Users\lipch\source\repos\Calculate\Calculate\obj\Debug\Calculate.application
